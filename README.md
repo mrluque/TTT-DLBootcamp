@@ -1,5 +1,4 @@
 # TTT-DLBootcamp
-# DL_bootcamp
 
 This bootcamp aims to provide participants with the theoretical knowledge and practical skills needed to develop deep learning solutions in the field of computer vision. In this repository, you will find educational materials, coding examples and exercises to get started in this field. 
 
